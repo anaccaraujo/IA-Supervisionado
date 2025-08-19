@@ -1,2 +1,2 @@
 # IA-Supervisionado
-exemop
+**Exemplo de um modelo de previsão do tempo**
